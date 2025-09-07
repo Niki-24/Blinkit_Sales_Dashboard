@@ -42,5 +42,4 @@ The Blinkit Sales Dashboard provides a comprehensive view of sales performance a
 ---
 
 ## 🔗 Image link 
-
-https://github.com/Niki-24/Blinkit_Sales_Dashboard/blob/main/DashboardImage.PNG
+<img width="870" height="491" alt="DashboardImage" src="https://github.com/user-attachments/assets/ae18f7f2-7e0f-43ce-a1cf-42d034d8996b" />
