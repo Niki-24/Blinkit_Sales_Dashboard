@@ -1,4 +1,4 @@
-# 📊 Blinkit Sales Dashboard** 
+# 📊 Blinkit Sales Dashboard
 The Blinkit Sales Dashboard provides a comprehensive view of sales performance across different outlet types, item categories, and regions.
 
 ## 🚀 Features
